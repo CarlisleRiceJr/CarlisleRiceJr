@@ -69,5 +69,23 @@ https://carlislerice.netlify.app/images/calorie-counter.png
 <p>Built with Javascript, CSS, HTML, Node.js, Express, Mongodb.</p>
 </div>
     </td>
+  <td width="50%">
+<h3 align="center" color="white">Still Second of the Cosmos</h2>
+<div align="center" >  
+<a href='https://astillsecondofthecosmos.netlify.app/'>
+</a>
+   
+<br>
+<br>
+<p>
+<a href="https://astillsecondofthecosmos.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://astillsecondofthecosmos.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p>Photo and summary of the day from NASA API</p>
+</div>
   </table>
 
