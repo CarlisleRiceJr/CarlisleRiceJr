@@ -52,7 +52,8 @@
 <div align="center" >  
 <a href='https://github.com/CarlisleRiceJr/calorie-counter'> 
 </a>
- ![Screenshot of Calorie Counter app](https://carlislerice.netlify.app/images/calorie-counter.png)
+  
+  ![screenshot of Calorie Counter app](https://carlislerice.netlify.app/images/calorie-counter.png)
   
 <br>
 <br>
