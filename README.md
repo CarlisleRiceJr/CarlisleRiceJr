@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Lesson Share App</h2>
+<h3 align="center" color="white">Lesson Share App</h3>
 <div align="center" >  
 <a href='https://lesson-share.cyclic.app/'> 
 </a>
@@ -43,10 +43,12 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
+  
+  
 <p>Fullstack web app built with Javascript, CSS, HTML, Node.js, Express, Mongodb.</p>
 </div>
   
-  <h3 align="center" color="white">Calorie counter app</h2>
+  <h3 align="center" color="white">Calorie counter app</h3>
 <div align="center" >  
 <a href='https://github.com/CarlisleRiceJr/calorie-counter'> 
 </a>
@@ -65,7 +67,7 @@ https://carlislerice.netlify.app/images/calorie-counter.png
 </a>
 </p>
 <p>Built with Javascript, CSS, HTML, Node.js, Express, Mongodb.</p>
-  </td>
 </div>
+    </td>
   </table>
 
