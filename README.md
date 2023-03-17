@@ -74,3 +74,18 @@
 
   </table>
 
+
+<h2 align="center">Contact Me:
+<p align="center"> 
+<a href="https://twitter.com/PDev512">
+  <img  alt="Carlisle's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/CarlisleRiceJr">
+  <img  alt="Carlisle's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://carlislerice.netlify.app/">
+  <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
+</a>
+</p>
+  </h2>
+  </ br>
