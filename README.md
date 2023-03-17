@@ -65,6 +65,7 @@ https://carlislerice.netlify.app/images/calorie-counter.png
 </a>
 </p>
 <p>Built with Javascript, CSS, HTML, Node.js, Express, Mongodb.</p>
+  </td>
 </div>
-</td>
+  </table>
 
