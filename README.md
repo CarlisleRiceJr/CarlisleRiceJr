@@ -30,7 +30,7 @@
 <a href='https://lesson-share.cyclic.app/'> 
 </a>
   
-!(https://carlislerice.netlify.app/images/lesson-share-website.png)
+![screenshot of Lesson Share app](https://carlislerice.netlify.app/images/lesson-share-website.png)
   
 <br>
 <br>
