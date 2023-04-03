@@ -89,3 +89,5 @@
 </p>
   </h2>
   </ br>
+  
+  [![Carlisle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlisleRiceJr)](https://github.com/CarlisleRiceJr/github-readme-stats)
