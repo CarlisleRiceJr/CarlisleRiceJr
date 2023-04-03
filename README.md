@@ -90,4 +90,4 @@
   </h2>
   </ br>
   
-  [![Carlisle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlisleRiceJr)](https://github.com/CarlisleRiceJr/github-readme-stats)
+  [![Carlisle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlisleRiceJr&count_private=true)](https://github.com/CarlisleRiceJr/github-readme-stats)
