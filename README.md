@@ -63,7 +63,7 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://github.com/CarlisleRiceJr/calorie-counter" target="_blank">
+<a href="https://calorie-counter.cyclic.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
